@@ -5,7 +5,6 @@
 
 Batchelor Web Development student at Bussines Academy SouthWest with previous education from AP degree in Multimedia Design from University College of Northern Denmark. 
 
-<br><br> 
 
 Experience with technologies in...
 - UX/UI (Figma, Adobe XD)
