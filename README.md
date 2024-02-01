@@ -3,12 +3,13 @@
 ### Hello stranger, my name is Martina  
 
 
-Web Development student at Bussines Academy SouthWest with previous education in Multimedia Design. 
+Batchelor Web Development student at Bussines Academy SouthWest with previous education from AP degree in Multimedia Design from University College of Northern Denmark. 
 
+<br><br> 
 
 Experience with technologies in...
 - UX/UI (Figma, Adobe XD)
-- Frontend Development (HTML, CSS, Bootstrap, Vue.js)
+- Frontend Development (HTML, CSS, Webflow, Bootstrap, Vue.js)
 - Software Development (JavaScript, PHP)
 - Database Management Systems (MySQL)
 - Security (Hashing, JWT, SQL-injection, cross-site scripting)
