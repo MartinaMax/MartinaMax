@@ -1,13 +1,15 @@
 ### Hello stranger, I'm Martina 👋
 
+A Web development student at Bussines Academy SouthWest
 
 
-Experience with technologies in
+Experience with technologies in...
 - UX/UI (Figma, Adobe XD)
-- Frontend Development (HTML, CSS, Vue.js)
-- Software Development (JavaScript, TypeScript, PHP)
+- Frontend Development (HTML, CSS, Bootstrap, Vue.js)
+- Software Development (JavaScript, PHP)
 - Database Management Systems (MySQL)
 - Security (Hashing, JWT, SQL-injection, cross-site scripting)
+- REST API
 
 <br><br> 
     
