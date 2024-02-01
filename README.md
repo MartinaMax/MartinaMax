@@ -1,4 +1,5 @@
-### Hello stranger, my name is Martina ![image](https://github.com/MartinaMax/MartinaMax/assets/93907331/eb849b48-c2fa-4f80-9acc-605db95562db)
+### Hello stranger, my name is Martina  ![image](https://github.com/MartinaMax/MartinaMax/assets/93907331/d5f94593-acab-47d1-b8e8-2d5d5743d73d)
+
 
 
 Web Development student at Bussines Academy SouthWest with previous education in Multimedia Design. 
