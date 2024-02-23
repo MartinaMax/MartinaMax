@@ -10,9 +10,9 @@ Experience with technologies in...
 - UX/UI (Figma, Adobe XD)
 - Frontend Development (HTML, CSS, Webflow, Bootstrap, Vue.js)
 - Software Development (JavaScript, PHP)
-- Database Management Systems (MySQL)
+- Database Management Systems (MySQL, MongoDB)
 - Security (Hashing, JWT, SQL-injection, cross-site scripting)
-- REST API
+- REST API 
 
 <br><br> 
     
