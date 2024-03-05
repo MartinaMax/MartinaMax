@@ -3,7 +3,7 @@
 ### Hello stranger, my name is Martina  
 
 
-Batchelor Web Development student at Bussines Academy SouthWest with previous education from AP degree in Multimedia Design from University College of Northern Denmark. 
+Batchelor Web Development student at Bussines Academy SouthWest Denmark with previous education from AP degree in Multimedia Design from University College of Northern Denmark. 
 
 
 Experience with technologies in...
@@ -11,8 +11,8 @@ Experience with technologies in...
 - Frontend Development (HTML, CSS, Webflow, Bootstrap, Vue.js)
 - Software Development (JavaScript, PHP)
 - Database Management Systems (MySQL, MongoDB)
-- Security (Hashing, JWT, SQL-injection, cross-site scripting)
-- REST API 
+- Security (Hashing, JWT, SQL-injection, Cross-site scripting)
+- REST API (Node.js, Express.js)
 
 <br><br> 
     
