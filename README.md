@@ -9,10 +9,9 @@ Batchelor Web Development student at Bussines Academy SouthWest Denmark with pre
 Experience with technologies in...
 - UX/UI (Figma, Adobe XD)
 - Frontend Development (HTML, CSS, Webflow, Bootstrap, Vue.js)
-- Software Development (JavaScript, PHP)
+- Backend Development (JavaScript, PHP)
 - Database Management Systems (MySQL, MongoDB)
-- Security (Hashing, JWT, SQL-injection, Cross-site scripting)
-- REST API (Node.js, Express.js)
+- REST API (Node.js, Express.js, Postman, Swagger)
 
 <br><br> 
     
