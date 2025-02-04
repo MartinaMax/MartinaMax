@@ -15,10 +15,14 @@ Experience with technologies in...
 
 <br><br> 
 
-```javascript
+```json
 const thai = {
 }
 ```
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MartinaMax&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
     
 <p><strong>Github stats:</strong></p>
 
