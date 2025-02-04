@@ -16,8 +16,13 @@ Experience with technologies in...
 <br><br> 
 
 ```yaml
-const may = {
-}
+name: Martina Maximová
+pronounce: she/her
+speak: Slovak, English
+education: [
+   Bachelor's in Web development
+   AP degree in Multimedia design
+]
 ```
  
 <p><strong>Github stats:</strong></p>
