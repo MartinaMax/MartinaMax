@@ -15,7 +15,7 @@ Experience with technologies in...
 
 <br><br> 
 
-```yaml
+```JSON
 name: Martina Maximová
 pronounce: she/her
 speak: Slovak, English
