@@ -2,28 +2,35 @@
 
 ### Hello stranger, my name is Martina  
 
-
-Batchelor Web Development student at Bussines Academy SouthWest Denmark with previous education from AP degree in Multimedia Design from University College of Northern Denmark. 
-
-
-Experience with technologies in...
-- UX/UI (Figma, Adobe XD)
-- Frontend Development (HTML, CSS, Webflow, Bootstrap, React, Next.js, Vue.js)
-- Backend Development (JavaScript, PHP)
-- Database Management Systems (MySQL, MongoDB)
-- REST API (Node.js, Express.js, Postman, Swagger)
-
-<br><br> 
-
-```JSON
+```yaml
 name: Martina Maximová
+
 pronounce: she/her
-speak: Slovak, English
-education: [
-   Bachelor's in Web development
-   AP degree in Multimedia design
-]
+
+speak:
+   - English
+   - Slovak
+   - Czech
+
+education: 
+   - Bachelor's in Web development
+   - Academy Profession in Multimedia design
+
+work_background:
+   - Web development Intern at Data4You Coding Bootcamp Praha
+   - UX/UI Intern at AmiNet s.r.o
+
+technologies:
+   - UX/UI [Figma, Adobe XD]
+   - Frontend Development [HTML, CSS, SCSS, Webflow, Bootstrap, React, Next.js, Vue.js]
+   - Backend Development [JavaScript, Node.js, Express.js, Next.js, PHP, Laravel]
+   - Database Management Systems [MySQL, MongoDB]
+   - REST API [Postman, Swagger]
+   - Testing [CI/CD, Postman, Mocha.js, Chai.js, GitHub Actions]
+
+fun_fact: ""
 ```
+<br><br> 
  
 <p><strong>Github stats:</strong></p>
 <div href="https://github.com/MartinaMax/github-readme-stats">
