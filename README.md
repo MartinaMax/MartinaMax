@@ -14,6 +14,11 @@ Experience with technologies in...
 - REST API (Node.js, Express.js, Postman, Swagger)
 
 <br><br> 
+
+```javascript
+const thai = {
+}
+```
     
 <p><strong>Github stats:</strong></p>
 
