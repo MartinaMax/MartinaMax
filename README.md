@@ -15,8 +15,8 @@ Experience with technologies in...
 
 <br><br> 
 
-```json
-const thai = {
+```javascript
+const may = {
 }
 ```
 
@@ -26,5 +26,7 @@ const thai = {
 
     
 <p><strong>Github stats:</strong></p>
+<div href="https://github.com/MartinaMax/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaMax&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaMax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
