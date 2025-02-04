@@ -9,9 +9,11 @@
 ```yaml
 name: Martina Maximová
 
-bio: Web developer with passion for all things design, frontend and the wonders of API with patience for finding and fixing bugs.
-     A team player who believes that discussions help develop better solutions. Coming from a practice-based education, working
-     on real-world projects with actual clients, which helped shape my hands-on approach to development.
+bio: Web developer with passion for all things design, frontend and the wonders of API
+     with patience for finding and fixing bugs. A team player who believes that discussions
+     help develop better solutions. Coming from a practice-based education, working on
+     real-world projects with actual clients, which helped shape my hands-on approach
+     to development.
 
 speak:
    - English
