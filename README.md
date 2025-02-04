@@ -1,11 +1,11 @@
 ![image](https://github.com/MartinaMax/MartinaMax/assets/93907331/d5f94593-acab-47d1-b8e8-2d5d5743d73d)
 
-### Hello stranger, my name is Martina  
+<h2> Hello stranger!</h2>
 
 ```yaml
 name: Martina Maximová
 
-pronounce: she/her
+bio: Web developer with passion for all things design, frontend and the wonders of API with patience for finding and fixing bugs. A team player who believes that discussions help develop better solutions. Coming from a practice-based education, working on real-world projects with actual clients, which helped shape my hands-on approach to development.
 
 speak:
    - English
@@ -14,21 +14,26 @@ speak:
 
 education: 
    - Bachelor's in Web development
-   - Academy Profession in Multimedia design
+   - Academy Profession degree in Multimedia design
 
 work_background:
    - Web development Intern at Data4You Coding Bootcamp Praha
    - UX/UI Intern at AmiNet s.r.o
 
 technologies:
-   - UX/UI [Figma, Adobe XD]
-   - Frontend Development [HTML, CSS, SCSS, Webflow, Bootstrap, React, Next.js, Vue.js]
-   - Backend Development [JavaScript, Node.js, Express.js, Next.js, PHP, Laravel]
-   - Database Management Systems [MySQL, MongoDB]
-   - REST API [Postman, Swagger]
-   - Testing [CI/CD, Postman, Mocha.js, Chai.js, GitHub Actions]
+   - UX/UI: [Figma, Adobe XD]
+   - Frontend: [HTML, CSS, SCSS, Webflow, Bootstrap, React, Next.js, Vue.js]
+   - Backend: [JavaScript, Node.js, Express.js, Next.js, PHP, Laravel]
+   - Database Management Systems: [MySQL, MongoDB]
+   - REST API: [Postman, Swagger]
+   - Testing: [CI/CD, Postman, Mocha.js, Chai.js, GitHub Actions]
 
-fun_fact: ""
+hobbies:
+   - Snowboarding
+   - Surfing
+   - Traveling
+   - Drinking tea
+   - Watching TV shows
 ```
 <br><br> 
  
