@@ -15,7 +15,7 @@ Experience with technologies in...
 
 <br><br> 
 
-```javascript
+```yaml
 const may = {
 }
 ```
