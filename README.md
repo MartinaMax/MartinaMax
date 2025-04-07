@@ -30,7 +30,7 @@ work_background:
 technologies:
    - UX/UI: [Figma, Adobe XD]
    - Frontend: [HTML, CSS, SCSS, Webflow, Bootstrap, React, Next.js, Vue.js]
-   - Backend: [JavaScript, Node.js, Express.js, Next.js, PHP, Laravel]
+   - Backend: [JavaScript, Node.js, Express.js, PHP, Laravel]
    - Database Management Systems: [MySQL, MongoDB]
    - REST API: [Postman, Swagger]
    - Testing: [CI/CD, Postman, Mocha.js, Chai.js, GitHub Actions]
