@@ -38,6 +38,7 @@ technologies:
 hobbies:
    - Snowboarding
    - Surfing
+   - Judo
    - Traveling
    - Drinking tea
    - Watching TV shows
